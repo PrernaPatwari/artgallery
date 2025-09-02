@@ -1,0 +1,28 @@
+
+* {
+  margin: 20px;
+  
+  
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+.center {
+  margin:30px 300px 5px 340px;
+  height:300px;
+  width:450px;
+  border: 3px solid green;
+  padding-left:60px;
+  padding-top:50px;
+}
+
+.button
+{
+	margin-left:135px;
+}
+.box
+{
+	margin-left:510px;
+}@charset "UTF-8";
